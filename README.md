@@ -6,6 +6,8 @@ Ce projet realiser par Djabrail et Alexis permet de faire des tests d'ergonomie 
 
 ## Compilation & execution
 
+Vous ne pourrez pas tester ce projet car les identifiants et mot de passe pour se connecter a la base de donnee ne sont pas inscrit
+
 - **make** permet de compiler et creer 2 archives "testeur.jar" et "developpeur.jar"
 - **make testeur** permet d'executer l'archive "testeur.jar"
 - **make developpeur** permet d'executer l'archive "developpeur.jar"
