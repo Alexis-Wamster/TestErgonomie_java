@@ -1,0 +1,76 @@
+A7bK9pQ1
+
+
+insert into SAE31_protocole values (
+    1,
+    'K3h9pL7s',
+    1,
+    "Le menu ci dessous permet de creer des diaporamas, trouver l'option qui permet de modifier le texte pour que tout soit en minuscule",
+    183
+);
+
+insert into SAE31_protocole values (
+    2,
+    'R2a5qB8w',
+    1
+    ,"Le menu ci dessous provient d'une application permettant de creer diaporamas, trouver l'option qui permet de consulter les raccourcis clavier que propose cette application",
+    344
+);
+
+insert into SAE31_protocole values (
+    3,
+    'M6z4xV1c',
+    1,
+    "Le menu ci dessous permet de creer des diaporamas, trouver l'option qui permet de creer une diapositive qui met en valeur un gros chiffre par sa mise en page",
+    285
+);
+
+insert into SAE31_protocole values (
+    4,
+    'G9d2oE5f',
+    1,
+    "Le menu ci dessous permet de creer des diaporamas, trouver l'option qui permet de tourner un element du diaporama verticalement",
+    313
+);
+
+--------------------------
+
+insert into SAE31_protocole values (
+    5,
+    'T7l1rN6y',
+    345,
+    "Le menu ci dessous est celui du celebre jeu Minecraft, trouver l'option qui permet de creer un nouveau monde solo",
+    377
+);
+
+insert into SAE31_protocole values (
+    6,
+    'P4i8uQ2o',
+    345,
+    "Le menu ci dessous est celui du celebre jeu Minecraft, trouver l'option qui permet d'activer ou non l'audio description",
+    474
+);
+
+insert into SAE31_protocole values (
+    7,
+    'X5v3jI9k',
+    345,
+    "Le menu ci dessous est celui du celebre jeu Minecraft, trouver l'option qui permet d'ajouter ou non une cap a son personnage",
+    405
+);
+
+insert into SAE31_protocole values (
+    8,
+    'S8c7gY1b',
+    345,
+    "Le menu ci dessous est celui du celebre jeu Minecraft, trouver l'option qui permet de retirer le bruit de la pluie",
+    416
+);
+
+insert into SAE31_protocole values (
+    9,
+    'U2m6aL9p',
+    345,
+    "Le menu ci dessous est celui du celebre jeu Minecraft, trouver l'option qui de creer une copie du monde \"speedrun 666\"",
+    356
+);

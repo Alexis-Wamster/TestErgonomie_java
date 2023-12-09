@@ -1,0 +1,343 @@
+Fichier
+	Nouveau
+		Presentation
+		A partir de la galerie de modeles
+	Ouvrir
+	Importer des diapositives
+	Creer une copie
+		Presentation entiere
+		Diapositives selectionnees
+	Partager
+		Partager avec d'autres utilisateurs
+		Publier sur le web
+	Envoyer par e-mail
+		Envoyer ce fichier par e-mail
+		Envoyer par e-mail aux collaborateurs
+	Télécharger
+		Microsoft PowerPoint (.pptx)
+		Document ODP (.odp)
+		Document PDF (.pdf)
+		Texte brut (.txt)
+		Image JPEG (.jpg, diapositive actuelle)
+		Image PNG (.png, diapositive actuelle)
+		Scalable Vector Graphics (.svg, diapositive active)
+	Renommer
+	Déplacer
+	Ajouter un raccourci dans Drive
+	Placer dans la corbeille
+	Historique des versions
+		Nommer la version actuelle
+		Afficher l'historique des versions
+	Rendre disponible hors connexion
+	Détails
+	Langue
+		Afrikaans
+		Azerbaïdjan
+		Bahasa Indonesia
+		Bahasa Melayu
+		Catalan
+		Cestina
+		Cymraeg
+		Dansk
+		Deutsh
+		Schweizer Hochdeutsch
+		Langue
+		Eesti
+		English (Canada)
+		English (United Kingdom)
+		English (United States)
+		Espanol
+		Espanol (Latinoamerica)
+		Euskara
+		Filipino
+		Francais
+		Francais (Canada)
+		Galego
+		Hrvatski
+		IsiZulu
+		Islenska
+		Italiano
+		Kiswahili
+		Latviesu
+		Lietuviu
+		Magyar
+		Malti
+		Nederlands
+		Norsk (Nynorsk)
+		Norsk (Bokmal)
+		Polski
+		Portugues (Brasil)
+		Portugues (Portugal)
+		Romana
+		Slovencina
+		Slovenscina
+		Suomi
+		Svenska
+		tieng Viet
+		Turkce
+	Configuration de la page
+	Aperçu avant impression
+	Imprimer
+Édition
+	Annuler
+	Rétablir
+	Couper
+	Copier
+	Coller
+	Coller sans mise en forme
+	Tout sélectionner
+	Supprimer
+	Dupliquer
+	Rechercher et remplacer
+Affichage
+	Diaporama
+	Animation
+	Générateur de thème
+	Mode grille
+	Afficher la règle
+	Guides
+		Afficher les guides
+		Ajouter un guide vertical
+		Ajouter un guide horizontal
+		Modifier les guides
+		Effacer les guides
+	Aligner sur
+		Grille
+		Guides
+	Pointeurs en direct
+		Afficher les curseurs des collaborateurs
+		Afficher mon curseur
+	Afficher les commentaires du présentateur
+	Afficher la pellicule
+	Afficher les commentaires
+	Menu de zoom
+		Ajuster à la fenêtre
+		50%
+		75%
+		100%
+		125%
+		150%
+		200%
+		Zoom avant
+		Zoom arrière
+		Plein écran
+Insertion
+	Image
+		Importer depuis l'ordinateur
+		Rechercher sur le web
+		Drive
+		Photos
+		A partir de l'url
+		Appareil photo
+	Zone de texte
+	Audio
+	Vidéo
+	Forme
+	Tableau
+	Graphique
+		Barres
+		Colonnes
+		Lignes
+		Secteurs
+		Depuis Sheets
+	Diagramme
+		Grille
+		Hiérarchie
+		Chronologie
+		Processus
+		Relation
+		Cycle
+		Tout afficher
+	Word Art
+	Trait
+		Trait
+		Flèche
+		Connecteur en angle
+		Connecteur en arc
+		Arc
+		Polyligne
+		Dessin à main levée
+	Caractères spéciaux
+	Animation
+	Lien
+	Commentaire
+	Nouvelle diapositive
+	Numéros de diapositives
+Format
+	Texte
+		Gras
+		Italique
+		Souligner
+		Barrer
+		Exposant
+		Indice
+		Taille
+			Augmenter la taille de la police
+			Diminuer la taille de la police
+		Couleur
+		Couleur de surlignage
+		Mise en majuscules/minuscules
+			Minuscules
+			MAJUSCULES
+			Majuscule au début de chaque mot
+	Aligner et mettre en retrait
+		A gauche
+		Centrer
+		A droite
+		Justifié
+		Augmenter le retrait
+		Diminuer le retrait
+		En haut
+		Milieu
+		En bas
+	Interligne et espace entre paragraphe
+		Simple
+		1,15
+		1,5
+		Double
+		Insérer un espacement avant le paragraphe
+		Insérer un espacement après le paragraphe
+		Espace personnalisé
+	Puces et numéros
+		Liste numerotee
+		Liste a puces
+		Option de liste
+	Tableau
+		Ligne au-dessus
+		Ligne en dessous
+		Colonne a gauche
+		Colonne a droite
+		Supprimmer la ligne
+		Supprimer la colonne
+		Repartir les lignes
+		Repartir les colonnes
+		Fusionner les cellules
+		Defusionner les cellules
+	Image
+		Recadrer l'image
+		Remplacer l'image
+			Importer depuis l'ordinateur
+			Rechercher sur le web
+			Drive
+			Photos
+			A partir de l'url
+			Appareil photo
+			Reinitialiser l'image
+	Bordures et lignes
+		Couleur de bordure
+		Epaisseur de bordure
+			1 px
+			2 px
+			3 px
+			4 px
+			8 px
+			12 px
+			16 px
+			24 px
+		Type de bordure
+			Simple
+			Double
+			Triple
+			Fine-Epaisse
+			Epaisse-Fine
+		Style de bordure
+			Continue
+			Succession de points
+			Succession de petit trait
+			Alternee de petit trait et de point
+			Succession de grand trait
+			Alternee de grand trait et de point
+		Attributs de bordure
+			Jointure arrondie
+			Jointure en pointe
+			Jointure en biseau
+			Pointe aboutee
+			Pointe arrondie
+			Pointe carree
+		Taille de la pointe de la fleche
+			Petite
+			Moyenne
+			Grande
+	Options de mise en forme
+	Supprimer la mise en forme
+Diapositive
+	Nouvelle diapositive
+	Dupliquer la diapositive
+	Supprimer la diapositive
+	Masquer la diapositive
+	Deplacer la diapositive
+		Deplacer la diapositive vers le haut
+		Deplacer la diapositive vers le bas
+		Deplacer la diapositive au debut
+		Deplacer la diapositive a la fin
+	Modifier l'arriere-plan
+	Appliquer la mise en page
+		Diapositive de titre
+		En-tete de selection
+		Titre et corps
+		Titre et texte sur deux colonnes
+		Titre uniquement
+		Texte dans une colonne
+		Argument principal
+		Titre de section et descriptif
+		Legende
+		Gros chiffre
+		Vide
+	Transition
+	Modifier le theme
+	Changer le theme
+Réorganiser
+	Trier
+		Mettre au premier plan
+		Deplacer vers l'avant
+		Deplacer vers l'arriere
+		Mettre a l'arriere plan
+	Aligner
+		Gauche
+		Centrer
+		Droite
+		Haut
+		Milieu
+		Bas
+	Distribuer
+		Horizontalement
+		Verticalement
+	Centrer sur la page
+		Horizontalement
+		Verticalement
+		Faire pivoter
+		Faire pivoter de 90° vers la droite
+		Faire pivoter de 90° vers la gauche
+		Retourner a l'horizontal
+		Retourner a la verticale
+	Associer
+	Degrouper
+Outils
+	Orthographe
+		Correcteur orthographique
+		Afficher les suggestion orthographique
+		Dictionnaire personnel
+	Explorer
+	Objets associes
+	Dictionnaire
+	Historique des questions-reponses
+	Dicter les commentaire du presentateur
+	Parametre de notification
+	Preferences
+	Accessibilite
+Extension
+	Modules complementaires
+		Telecharger des modules complementaires
+		Gerer les modules complementaires
+		Afficher les modules complementaires du document
+	Apps Script
+Aide
+	Rechercher des elements dans un menus
+	Aide
+	Formation
+	Mise a jour
+	Aidez nous a ameliorer Slides
+	Signaler un abus
+	Regles de confidentialite
+	Conditions d'utilisation
+	Raccourcis clavier

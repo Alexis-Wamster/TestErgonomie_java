@@ -1,0 +1,146 @@
+Minecraft
+	Solo
+		Speedrun 666
+			jouer dans ce monde
+			Modifier
+				Reinitialiser l'icone
+				Ouvrir le dossier du monde
+				Faire une sauvegarde
+				Ouvrir le dossier des sauvegardes
+				Optimiser le monde
+					Effacer les donnees mises en cache
+			Recreer
+		Test redstone
+			jouer dans ce monde
+			Modifier
+				Reinitialiser l'icone
+				Ouvrir le dossier du monde
+				Faire une sauvegarde
+				Ouvrir le dossier des sauvegardes
+				Optimiser le monde
+					Effacer les donnees mises en cache
+			Recreer
+		Nouveau monde
+			jouer dans ce monde
+			Modifier
+				Reinitialiser l'icone
+				Ouvrir le dossier du monde
+				Faire une sauvegarde
+				Ouvrir le dossier des sauvegardes
+				Optimiser le monde
+					Effacer les donnees mises en cache
+			Recreer
+		Creer un nouveau monde
+	Multijoueur
+		Le serveur de l'IUT
+			Rejoindre
+			Modifier
+			Supprimer
+		best bedwar
+			Rejoindre
+			Modifier
+			Supprimer
+		Nouveau serveur
+		Connexion rapide
+		Actualiser
+	Minecraft Realms
+		Invitations
+		Nouvelles de Realms
+		mon realms que j'ai paye 20 euros (une arnaque)
+			jouer
+			configurer
+			renouveler
+			quitter le Realms
+		Ajouter un Realms
+	Options
+		champ de vision
+		En ligne
+			Nouvelles et invitations de Realms
+			Listage du nom
+		Personalisation du skin
+			Cape
+			Veste
+			Manche gauche
+			Manche droite
+			Jambe gauche
+			Jambe droite
+			Chapeau
+			Main principale
+		Musique et son
+			Volume principale
+			Musique
+			Meteo
+			Blocs
+			Creatures hostiles
+			Creatures passives
+			Joueurs
+			Environement
+			Voix
+			Peripherique
+		Options graphiques
+			Resolution plein ecran
+			fondu de biomes
+			graphismes0i
+			Synchro verticale
+			Taille de l'interface
+			Luminosite
+			Plein ecran
+			Niveaux de details
+			Effets de distorsion
+			Effets de FOV
+			Vitesse de scintillement
+			Dist. d'affichage
+			Dist. de simulation
+			FPS max
+			Mouvement de tete
+			Indicateur d'attaque
+			Nuages
+			Particules
+			Ombres des entites
+			Distances des entites
+			Indicateur de sauvegarde
+			Force de scintillement
+		Controles
+			Parametres de la souris
+				Sensibilite
+				Inverser la souris
+				Sensibilite de la molette
+				Defilement discret
+				Mode ecran tactile
+				Entree brute
+			Assignations des touches
+			S'accroupir
+			Courir
+			Saut automatique
+			Inventaire d'operateur
+		Langue
+		Options de discussion
+			tchat
+			Couleur
+			Liens internet
+			Avertir sur les liens
+			Opacite du texte
+			Opacite du fond de texte
+			Taille du texte
+			Interligne
+			Delai du tchat
+			Largeur
+			Hauteur avec focus
+			Hauteur sans focus
+			Narrateur
+			Commandes assistees
+			Masquer par nom
+			Infos F3 reduites
+			Tchat securise
+		Packs de ressources
+			Ouvrir le dossier des packs
+		Donnees de telemetrie
+			Declaration de confidentialite
+			Donner son avis
+			Voir mes donnes
+			Collecte de donnes
+		Credits et attributions
+			Credits
+			Attributions
+			Licences
+	Quitter le jeu
